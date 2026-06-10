@@ -4,7 +4,7 @@ This Python program demonstrates how to sort a dictionary:
 - Alphabetically by keys
 - Alphabetically by values
 
----
+--- 
 
 ##  Aim
 
